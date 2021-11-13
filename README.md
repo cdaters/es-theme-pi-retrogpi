@@ -29,6 +29,8 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Thanks and Credits
 
+Inspiration taken from many sources, including [Dwayne Hurst](https://github.com/RetroHursty69), [Ruckage](https://github.com/ruckage), and many others! I cannot thank you all enough for your blood, sweat, and tears... Too little appreciation is heaped upon you all. I'll add more here as I recall and take inspiration from others...
+
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
