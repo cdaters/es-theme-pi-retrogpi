@@ -84,7 +84,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample02](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/002.jpg) \
 ![Sample03](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/003.jpg) \
 ![Sample04](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/004.jpg) \
-![Sample05](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/005.jpg) \ 
+![Sample05](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/005.jpg) \
 ![Sample06](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/006.jpg) \
 ![Sample07](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/007.jpg) \
 ![Sample08](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/008.jpg) \
